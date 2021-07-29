@@ -95,3 +95,8 @@ button {
 .hole.up .mole {
   top: 0;
 }
+.something{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
